@@ -49,8 +49,7 @@ var calPoints = function (operations) {
 
 console.log(calPoints(["5", "-2", "4", "C", "D", "9", "+", "+"]));
 
-const change1 = "dakldjskaldjkasljdskakldsajkdsfasdasfasdasdasdsasadajklld";
-console.log(change1);
+const change1 = calPoints(["5", "-2", "4", "C", "D", "9", "+", "+"]);
 const change2 = "dsakldkadjakjdaslkdsaddsadasdafassdasa";
 
 const change3 = "dasklsfjkaldjkasdsjklaljdas";
