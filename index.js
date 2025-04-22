@@ -60,3 +60,6 @@ const change4 = "daklsdakjdkasljdkslajkla";
 const change5 = "kakakakakakakakak";
 const change6 = "daksjdkajfajsdklasjdksajklfjas";
 const change7 = "dsaklkdaldaskhjfkashdjkfhjkashdjafhjaksdads";
+
+const dsaklfjka = 1;
+const dsasjkfkfajsakdlsaj = 2;
