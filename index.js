@@ -48,3 +48,6 @@ var calPoints = function (operations) {
 };
 
 console.log(calPoints(["5", "-2", "4", "C", "D", "9", "+", "+"]));
+
+const change1 = "dsadasdas";
+const change2 = "dsakldkadjakjdaslkdsada";
