@@ -63,3 +63,5 @@ const change7 = "dsaklkdaldaskhjfkashdjkfhjkashdjafhjaksdads";
 
 const dsaklfjka = 1000;
 const dsasjkfkfajsakdlsaj = 2;
+
+const dsafjkads = "dasklfjkadjsadkjsas";
